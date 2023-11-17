@@ -17,3 +17,6 @@ go test unit_test.go
 ตัวอย่างการรทดสอบการใช้งาน api
 - https://drive.google.com/file/d/1M73kp3ERKNlLGHyyPXpXl3NSPj60rCUd/view?usp=sharing
 - https://drive.google.com/file/d/1p2t8p1KW6RNX8hG6TgbCuc671qVXLeB4/view?usp=sharing
+
+ตัวอย่างข้อมูลในฐานข้อมูล
+- https://drive.google.com/file/d/1OFenXE6EideHFr4KbdP9b9e0vmiCXAre/view?usp=sharing
